@@ -28,3 +28,7 @@ epika
 szpak
 bizon
 fajny
+kukła
+strój
+dorsz
+ameba
